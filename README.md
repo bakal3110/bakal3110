@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning C#!
+
+- 📫 How to reach me: LinkedIn - Bartosz Kaluski
 
 <!--
 **bakal3110/bakal3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
